@@ -4,8 +4,8 @@
 
 - My favorite language is Java, though I am aware of it's setbacks, it was my first language and it always just eases my mind to lean back on that good old OOP syntax.
 
-  ~~Hopefully my C++ isn't as forcedly OOP as my Java ;)~~
+  ~~Hopefully my C++ isn't as OOP as my Java ;)~~
 
-- I am an avid hater of javascript and python, though I acknowledge their merit for their individual purposes, I think they're too much of a crutch for people to lean on to avoid doing actual development.
+- I am an avid hater of javascript and python 😛 they're too much of a crutch for people to lean on to avoid doing actual development.
 
-- Elsewhere, I play pickleball at my local Recreation Centre, write poetry and I also enjoy drawing little kitty cats <3
+- Elsewhere, I'm trying to get a Private Pilot's License, I play pickleball at my local Recreation Centre, write poetry, and I also enjoy drawing silly little kitty cats <3
